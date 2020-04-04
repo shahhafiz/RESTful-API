@@ -2,7 +2,7 @@
 XAMPP, CodeIgniter, React, Material-UI
 
 ## Disclaimer
-I'am aware of the typo where it should be "exercise" instead of "excercise". Please ignore this typo.
+I'm aware of the typo where it should be "exercise" instead of "excercise". Please ignore this typo.
 
 ## Usage
 1. Create database 'excercise', table 'cms_login', and the fields as follow:
